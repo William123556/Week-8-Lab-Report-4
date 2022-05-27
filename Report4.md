@@ -1,6 +1,7 @@
 A link to your markdown-parse repository and a link to the one you reviewed in week 7
 
-Repo to review: [https://github.com/khiemddang/markdown-parser]
+[Repo in my group] (https://github.com/TuannDang/markdown-parser)
+[Repo to review:] (https://github.com/khiemddang/markdown-parser)
 
 **Snippet 1**
 
